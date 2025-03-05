@@ -1,0 +1,1 @@
+This repository contains the analysis and machine learning model implementation for the laptop-pricing dataset. The goal is to predict various price of laptops having various attributes using different machine learning techniques.
